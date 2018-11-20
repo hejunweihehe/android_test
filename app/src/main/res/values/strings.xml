@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string-array name="test_array">
+        <item>qw</item>
+        <item>qer</item>
+        <item>123</item>
+        <item>456</item>
+    </string-array>
+</resources>
