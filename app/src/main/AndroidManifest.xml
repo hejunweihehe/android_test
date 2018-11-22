@@ -22,7 +22,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.test.SecondActivity" />
+        <activity
+            android:name="com.test.SecondActivity"
+            android:parentActivityName="com.test.MainActivity" />
         <activity android:name="com.test.Activity3" />
         <activity android:name="com.test.Activity4"></activity>
     </application>
